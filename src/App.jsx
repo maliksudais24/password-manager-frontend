@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Manager from './components/Manager'
-import Showpasswords from './components/showpasswords'
+import Showpasswords from './components/Showpasswords'
 import Footer from './components/Footer'
 import Introduction from './components/Introduction'
 import Profile from './components/Profile'
